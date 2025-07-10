@@ -1,0 +1,46 @@
+Inserted at position 6,0
+Inserted at position 4,0
+Inserted at position 2,0
+Inserted at position 2,1
+2 -> <funcname, FUNCTION> <abc, FUNCTION> 
+4 -> <b, IDENTIFIER> 
+6 -> <a, IDENTIFIER> 
+Found at 2,1
+Found at 6,0
+Not found
+Deleted from 2,1
+2 -> <funcname, FUNCTION> 
+4 -> <b, IDENTIFIER> 
+6 -> <a, IDENTIFIER> 
+Inserted at position 0,0
+Not found
+Inserted at position 8,0
+Inserted at position 6,1
+Inserted at position 4,1
+0 -> <123, NUMBER> 
+2 -> <funcname, FUNCTION> 
+4 -> <b, IDENTIFIER> <>=, RELOP> 
+6 -> <a, IDENTIFIER> <==, RELOP> 
+8 -> <=, RELOP> 
+Already exists
+Deleted from 6,1
+0 -> <123, NUMBER> 
+2 -> <funcname, FUNCTION> 
+4 -> <b, IDENTIFIER> <>=, RELOP> 
+6 -> <a, IDENTIFIER> 
+8 -> <=, RELOP> 
+Not found
+Inserted at position 0,1
+0 -> <123, NUMBER> <204, NUMBER> 
+2 -> <funcname, FUNCTION> 
+4 -> <b, IDENTIFIER> <>=, RELOP> 
+6 -> <a, IDENTIFIER> 
+8 -> <=, RELOP> 
+Deleted from 0,1
+Already exists
+Already exists
+0 -> <123, NUMBER> 
+2 -> <funcname, FUNCTION> 
+4 -> <b, IDENTIFIER> <>=, RELOP> 
+6 -> <a, IDENTIFIER> 
+8 -> <=, RELOP> 
