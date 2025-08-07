@@ -1,0 +1,56 @@
+<Keyword,int,1>
+<Function,"main",1>
+<Parenthesis,),1>
+<Curly Braces,{,1>
+<Keyword,int,2>
+<Identifier,a,2>
+<Separator,,,2>
+<Identifier,b,2>
+<Separator,,,2>
+<Number,12,2>
+<Identifier,abcd,2>
+<Separator,,,2>
+<Identifier,abdc1,2>
+<Separator,,,2>
+<Identifier,_12abcd,2>
+<Separator,;,2>
+<Keyword,float,3>
+<Identifier,b,3>
+<Assignment Operator,=,3>
+<Number,1.2e-5,3>
+<Separator,;,3>
+<Identifier,a,4>
+<Assignment Operator,=,4>
+<Number,5,4>
+<Separator,;,4>
+<Identifier,b,5>
+<Assignment Operator,=,5>
+<Number,3.5140,5>
+<Separator,;,5>
+<Identifier,b,6>
+<Assignment Operator,=,6>
+<Number,1.51,6>
+.<Number,40,6>
+<Separator,;,6>
+<Identifier,a,8>
+<Assignment Operator,=,8>
+<Identifier,a,8>
+<Bitwise Operator,>>,8>
+<Number,1,8>
+<Separator,;,8>
+<Identifier,b,10>
+<Assignment Operator,=,10>
+<Number,10,10>
+<Separator,;,10>
+<Identifier,b,12>
+<Assignment Operator,<<=,12>
+<Number,5,12>
+<Separator,;,12>
+<Function,"printf",14>
+<Literals,"A string",14>
+<Parenthesis,),14>
+<Separator,;,14>
+<Identifier,return,28>
+<Number,0,28>
+<Separator,;,28>
+<Curly Braces,},29>
